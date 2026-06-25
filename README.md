@@ -25,7 +25,7 @@ My current goal is simple: keep building, keep learning, and turn small projects
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-## This is what I listen normally
+## Soundtrack while coding
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/pyzm23">
