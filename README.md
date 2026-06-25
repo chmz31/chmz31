@@ -79,8 +79,3 @@ For me, a good portfolio project is not just something that compiles. It should 
 - GitHub: [@chmz31](https://github.com/chmz31)
 - LinkedIn: [Christian Manrique Zanetti](https://www.linkedin.com/in/camz31/)
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chmz31/chmz31/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chmz31/chmz31/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chmz31/chmz31/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
