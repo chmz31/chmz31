@@ -1,19 +1,19 @@
-# Hi, I'm Chris👋
+# Hi, I'm Chris 👋
 
 
 ## About me 
 I'm a junior software developer based in Barcelona.
 
-I come from a background in IT support, but what really pulled me into software development was the idea of building things that actually feel alive: APIs, tools, games, systems, anything that starts as a messy idea and slowly becomes something real. 
+I come from a background in IT support, but what really pulled me into software development was the idea of building things that actually feel alive: APIs, tools, games, systems — anything that starts as a messy idea and slowly becomes something real. 
 Right now I'm focused on backend development with .NET and Java, especially REST APIs, authentication, testing, CI, Docker, and the kind of engineering habits that make a project maintainable instead of just “working on my machine”.
 
 I also have a long-term love for game development, dark fantasy, RPGs, and projects with personality. I like software that has structure, but I also care about style, clarity, and giving things a bit of soul.
 
 My current goal is simple: keep building, keep learning, and turn small projects into solid work I can be proud of.
 
-## I code with 
+## I build with 
 
-<div data-importer="techs" align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
@@ -29,14 +29,6 @@ My current goal is simple: keep building, keep learning, and turn small projects
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-## Soundtrack while coding
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/pyzm23">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pyzm23&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ## Currently focused on
@@ -79,6 +71,14 @@ Repository: [ProjectPulse](https://github.com/chmz31/ProjectPulse)
 I like projects that are small enough to understand, but serious enough to teach real engineering discipline.
 
 For me, a good portfolio project is not just something that compiles. It should be documented, tested, maintainable, and honest about its scope.
+
+## Soundtrack while coding
+
+<div>
+  <a href="https://open.spotify.com/user/pyzm23">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pyzm23&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ## Contact
 
