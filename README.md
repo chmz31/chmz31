@@ -58,14 +58,6 @@ It includes:
 
 Repository: [ProjectPulse](https://github.com/chmz31/ProjectPulse)
 
-## Tech stack
-
-**Backend:** C#, .NET 8, ASP.NET Core, Entity Framework Core, Java  
-**Databases:** SQLite, SQL  
-**Testing:** xUnit, integration testing with WebApplicationFactory  
-**DevOps:** Git, GitHub Actions, Docker, Dependabot  
-**Other:** REST APIs, JWT auth, Swagger/OpenAPI, FluentValidation
-
 ## What I care about
 
 I like projects that are small enough to understand, but serious enough to teach real engineering discipline.
